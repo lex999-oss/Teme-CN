@@ -1,3 +1,0 @@
-C:/Users/ALEX/Desktop/FII/Calcul Numeric/tema1_c/cmake-build-debug/CMakeFiles/tema1_c.dir
-C:/Users/ALEX/Desktop/FII/Calcul Numeric/tema1_c/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ALEX/Desktop/FII/Calcul Numeric/tema1_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
